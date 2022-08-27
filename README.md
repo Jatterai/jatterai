@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Jatterai/jatterai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, i am Yuna! 👋
 
 - 🌱 I’m currently learning Frontend Development!
 - 👀 But i'm newbie at this...
