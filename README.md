@@ -9,3 +9,4 @@
   * **Momentum app:**  https://jatterai.github.io/momentum/
   * **CV (i shoud update this one...):**  https://github.com/Jatterai/rsschool-cv/blob/main/README.md
   * **Online-zoo adaptive designe (with no JS)** https://rolling-scopes-school.github.io/jatterai-JSFEPRESCHOOL2022Q2/online-zoo/pages/main/index.html
+  * **Chiney store web page:**  https://jatterai.github.io/chimney/dist/index.html
